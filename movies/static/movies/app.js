@@ -38,5 +38,5 @@ function main() {
     modal();
 }
 
-$(document).ready(main());
+$(document).ready(main);
 
